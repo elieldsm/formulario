@@ -1,0 +1,5 @@
+{
+  "name": "Formulário de Contato Ciano",
+  "description": "Um formulário de contato moderno que coleta e-mail e número de telefone, estilizado com uma paleta de cores azul ciano. As informações são enviadas para um endereço de e-mail pré-definido via cliente de e-mail do usuário.",
+  "requestFramePermissions": []
+}
